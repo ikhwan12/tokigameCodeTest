@@ -27,7 +27,7 @@ Download installation [here](https://www.getpostman.com/downloads/)
 
 # How to Use
 * Run the code and wait until tomcat run on http://localhost:8080/
-* If you want to change the port number, go to src\main\resources\application.properties and change servfer.port value
+* If you want to change the port number, go to src\main\resources\application.properties and change server.port value
 * to use API you can access it via postman or browser by writing this URL : http://localhost:8080/flight/search
 * Enter your parameter key and value, for example : http://localhost:8080/flight/search?departure=Reconquista
 * It will give you output like this :
